@@ -1,7 +1,8 @@
 # hello-world
 My first repository
 
-My name is yehfei.
-I'm learning python.
-Nice to meet you.
-If there is something wrong, please mention it in time.
+- 👋 Hi, I’m @Yehfei
+- 👀 I’m interested in reading
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python projects but my abilities are limited
+- 📫 Please reach me with mail : 987965113@qq.com
